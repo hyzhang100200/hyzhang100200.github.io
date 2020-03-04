@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Put your title here</title>
+    <url>/2020/03/03/2020-03-03-how-to-write-rmd-documents-in-hexo-system/</url>
+    <content><![CDATA[<h2 id="R-Markdown"><a href="#R-Markdown" class="headerlink" title="R Markdown"></a>R Markdown</h2><p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" target="_blank" rel="noopener">http://rmarkdown.rstudio.com</a>.</p>
+<p>When you click the <strong>Knit</strong> button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
+<figure class="highlight r"><table><tr><td class="code"><pre><span class="line">summary(cars)</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">##      speed           dist       </span><br><span class="line">##  Min.   : 4.0   Min.   :  2.00  </span><br><span class="line">##  1st Qu.:12.0   1st Qu.: 26.00  </span><br><span class="line">##  Median :15.0   Median : 36.00  </span><br><span class="line">##  Mean   :15.4   Mean   : 42.98  </span><br><span class="line">##  3rd Qu.:19.0   3rd Qu.: 56.00  </span><br><span class="line">##  Max.   :25.0   Max.   :120.00</span><br></pre></td></tr></table></figure>
+<h2 id="Including-Plots"><a href="#Including-Plots" class="headerlink" title="Including Plots"></a>Including Plots</h2><p>You can also embed plots, for example:</p>
+<p><img src="figure/pressure-1.png" alt="plot of chunk pressure"></p>
+<p>Note that the <code>echo = FALSE</code> parameter was added to the code chunk to prevent printing of the R code that generated the plot.</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>The First Day in London</title>
+    <url>/2019/04/06/UK-1/</url>
+    <content><![CDATA[<p>(Sorry for the Chinese-British mix. It is the first version and I will update it when I return)</p>
+<h1 id="start-off"><a href="#start-off" class="headerlink" title="start off"></a>start off</h1><p>早上6:30起来打包昨天剩下的行李，Q2接到我，一起去艺园吃了油条豆浆，8:20之后搭乘出租车前往T3</p>
+<p>出租路上堵车，大概9:40左右才到T3，前一晚上已经选了座位，直接找到托运处很快就办完。然后就去登机，现在是电子化可以走自动口，分别刷一下护照和登机牌就可以识别信息，不得不说实在是方便太多。之后就是搭摆渡车到国际登机站台，开始安检，因为行李都已经把电子产品拆分出来，也没有带液体化妆品，所以整个过程也很快。然后就开始悠哉悠哉逛免税店啦。有一种觉得很划算又不知道买啥的错觉，和波波建的群有人陆陆续续发图，基本上在原价基础上收0.1，所以也算进账一二百，这算是第一次尝试自己赚些小钱，之后会更有经验一些。</p>
+<p>现在坐在了飞机上。马上就要开始自己的英国游，着实有些不真切。希望这趟旅行之后的自己变得更open-minded！</p>
+<p>拥挤的经济舱～<br><img src alt>(/Users/haner/hyzhang/source/_posts/pic1.jpg)<br><img src alt>(<a href="https://images.app.goo.gl/WphozHEE8ThpiR1L6" target="_blank" rel="noopener">https://images.app.goo.gl/WphozHEE8ThpiR1L6</a>)</p>
+<h1 id="On-the-flight"><a href="#On-the-flight" class="headerlink" title="On the flight"></a>On the flight</h1><p>飞机上第一餐 orange juice+pretzels椒盐饼干 sour cream &amp; chive </p>
+<p>正餐：</p>
+<p>apple juice<br>chicken套餐，米饭，加热的青菜和胡萝卜，配浓浓酱汁的鸡块<br>￼<br>我喜欢那个生菜土豆三文鱼沙拉，配着小面包味道很不错<br>￼<br>还有饭后甜点，不知道是什么，上面浇了一层蜂蜜，下面是布丁的口感，又有点像芝士蛋糕，我用勺子把最上面太甜的拨到了一边。<br>￼<br>现在吃的很满足～</p>
+<p>在飞机上看了一点哈利波特，又重温了一遍歌剧魅影。大概北京时间9:30，也就是离落地还有1个多小时的时候又进行了一餐。Chinese noddles套餐，配一杯红茶。<br>￼<br>￼<br>好久没吃过蒸面条了，青菜，酱汁鸡肉块，细面条，吃起来还可以，没有想象中那么油～<br>￼<br>这个应该是圣女果，青豆，胡萝卜，意大利面沙拉吧。就是食物本来的味道。<br>￼<br>点心，里面有坚果花生，甜甜糯糯的口感，很喜欢了。</p>
+<p>再有一个小时就要落地啦，满是期待！</p>
+<h1 id="Arrivals"><a href="#Arrivals" class="headerlink" title="Arrivals"></a>Arrivals</h1><p>I almost arrived at 4:15 pm, but it took a little bit of time to queue up to get off the plane.</p>
+<p>When I inserted the local card in my phone and connected it to the Internet, I find a lot of wechat messages, and I have to reply some of them immediately. Especially Prof.Ma asked me and my senior fellow sister to recruit a RA to assist the Prof.Deng in UCl.</p>
+<p>Then I went the luggage carousel to pick up mine, however, unfortunately I found my suitcase was damaged with a wheel missing. I felt shocked and didn’t know what they did to my luggage in the flight. I am so inexperienced that I decided to meet my friend Bo first and dealt with these things latter. So I went into the exit passage and missed the luggage enquiries room which it’s a no-entry way, means I can’t go back again.</p>
+<p>It is so excited to meet my Bo after three months and she gave me a warm bear hug the instant she saw me! She also bring me some delicious cookies which is a peanuts flavor, her favorite. And she immediately found there is something wrong with my luggage and urged me to the consult desk to solve this problem, not leave the airport terminal in case the airport won’t take responsibility for this. We consulted some airport stuffs and went to the luggage enquiries to make a phone call. But the stuff on the other side of the phone said we had to claim compensation online, because we can’t entered into the luggage carousel spot since it’s a no-entry way.</p>
+<p>We filled the table in the ba.com, but I thought there is little possibility of reclaiming the compensation for damage.</p>
+<p>落地取了行李，却发现少了一个轮子，想到出来见了波波再去机场处咨询解决，但是后来打luggage enquiries电话，对方说因为我们已经出了出口，不能再进去了，所以现在只能online填申请处理。bad luck</p>
+<h1 id="The-journey-begins"><a href="#The-journey-begins" class="headerlink" title="The journey begins!"></a>The journey begins!</h1><p>Bo opened my luggage and took the Chinese food I brought from Beijing supermarket. She said it is so delicious and felt so content.</p>
+<p>London is almost 8 hours behind Beijing, so it is almost midnight in Beijjng. Although I have took enough sleep in the plane, I still felt a little jetlag reactions.</p>
+<p>We also took sometime to find the right way to the subway. Bo said the system is so confusing and she got lost this morning. As for the luggage things, we have no time to see the British Museum in the evening and we decided to take the subway from the Heathrow terminal 5 to the king’s cross station directly and walk to our hostel click78, which is only ten minutes’ walk.</p>
+<p>The surroundings around is surprising to me. When we got off the subway and saw the classical station with an ancient outlook but modern equipments inside. I can’t help to take some photos but I don’t think I may catch the true beauty. </p>
+<p>然后我们搭乘subway从Heathrow Terminal 5到King’s Cross station，去参观了9 3/4 station, the stuffs here will assist you how to take a professional photograph with the scarf I the house you love.<br>Then we went to the souvenir shop. I was so surprised the moment I walked into it.看了纪念品store，就回我们住的click78，波带了cookies和sushi给我，路过超市买了whole milk全脂奶，晚上也在hostel bar喝了lemonade.<br>We talked to some people at the dining room. I find Bo talented in making friends and it seems a little hard for me to get understood and express my points.</p>
+<h1 id="Knowledge-Time"><a href="#Knowledge-Time" class="headerlink" title="Knowledge Time"></a>Knowledge Time</h1><p>今天跟波学到了<br>可以用cheers代替thanks<br>别人说thanks，你可以说no worries<br>would you like sth？or do you like sth？ I am fine or I am ok就是不用了的意思<br>只想听别人说，就可以说Cool<br>觉得某人做的好，就可以说Good for you<br>whole/skimmed/semi-skimmed milk<br>跟别人讲话一定要专心，如果不是特别好，可以说i am learning my English，听不懂可以问出来。<br>做饭带给别人，可以问 are u a vegetarian or vegan？</p>
+<p>Hanyu在这里的每一天就要努力跟别人去问话！！！</p>
+]]></content>
+      <tags>
+        <tag>Travel</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Learning with Hanyu</title>
+    <url>/2019/03/24/hello/</url>
+    <content><![CDATA[<p>Welcome to <strong>Learning with Hanyu</strong>.  This is my very first post. </p>
+<p>Today, I want to share a pome with you (•͈˽•͈)</p>
+<blockquote>
+<p>如果给你寄一本书<br>我不会寄给你诗歌<br>我要给你一本关于植物，关于庄稼的<br>告诉你稻子和稗子的区别<br>告诉你一棵稗子提心吊胆的<br>春天<br>———余秀华《我爱你》</p>
+</blockquote>
+]]></content>
+  </entry>
+</search>
