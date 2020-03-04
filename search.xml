@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>R</title>
+    <url>/2020/03/03/2020-03-03-how-to-write-rmd-documents-in-hexo-system/</url>
+    <content><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><h2 id="Termology"><a href="#Termology" class="headerlink" title="Termology"></a>Termology</h2><p>Script; Command; Comment; Variable; Fun; Argument<br>How to put arguments into a fun?<br>    • Check the help page<br>    • Order for arguments (not required, but recommend)<br>    • Know default for arguments<br>Do I have to set/enter all arguments?</p>
+<p>Synatax<br>    • A set of rules</p>
+<p>Packages<br>    • A collection of R funs<br>    • Base: function name{base}<br>    • Base cheat sheet<br>        ○ <a href="http://www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf" target="_blank" rel="noopener">www.rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf</a><br>    • Install packages<br>        ○ Install.package()<br>        ○ Library()<br>        ○ [packagename]::[fun]   eg. devtools::check()<br>    • Where can I find R packages?<br>        ○ CRAN<br>        ○ Bioconduct ???<br>        ○ Github<br>    • Most used packages<br>        ○ <a href="https://towardsdatascience.com/top-100-most-used-r-functions-on-github-9caf2b81b314" target="_blank" rel="noopener">https://towardsdatascience.com/top-100-most-used-r-functions-on-github-9caf2b81b314</a><br>        ○ </p>
+<p>Working directory<br>    • getwd()<br>    • setwd()</p>
+<p>R project<br>    • A collection of files (data; results; graphs)<br>    • To keep your analysis organized<br>        ○ Data; papers; rcode; writing; Rproj; Readme<br>    • Relative path: use to do reproductive work and share<br>    • What files do you have in this folder?<br>        ○ .Rhistory<br>        ○ .Rproj<br>        ○ Auto-saved</p>
+<p>Help in R<br>    • ?funname<br>    • ?”special characters”<br>    • help(package = “package name”)<br>    • example(function name)</p>
+<p>Data Type<br>    • Most common atomic data type<br>        ○ Numeric:  1, 2.3, 14.78<br>        ○ Integers<br>        ○ Complex<br>        ○ Logical<br>        ○ Characters<br>    • Find out the data type<br>        ○ class(2)<br>        ○ class(4L)<br>        ○ class(1+2i)<br>        ○ class(TRUE)<br>    • Change data type later too<br>        ○ as.numeric()<br>        ○ Remember some cant be changed or in an error way!!!</p>
+<p>Data structure<br>    • Data Frames<br>        ○ Create a data frame<br>            § data.frame()<br>            § Load mtcars data frame<br>                □ data() # to see the different datasets within R<br>                □ ?mtcars<br>            § Useful commands<br>                □ str() # find out the stucture of a data frame<br>                □ head()<br>                □ head(mtcars,10) # list the first 6 rows of data (or you could specific how many rows you want to preview)<br>                □ tail() # list the last 6 rows of data (or you could specific how many rows you want to preview)<br>            § Subset<br>                □ [row, column]<br>                □ [“var name”]<br>                □ df$var<br>                    ® mtcars[3,2]<br>                    ® mtcars[3, ]<br>                    ® mtcars[3:7,2]<br>                □ Use subset() to select data (ex: mpg &gt;15)<br>                    ® subset(mtcars, mpg &gt; 15)</p>
+<p>Explore data</p>
+<p>How do I select data?<br>    • subset()<br>    • comparision (&gt;;&lt;;&gt;=;&lt;=;==;!)<br>    • R logical operators<br>        ○ !x<br>        ○ x&amp;y<br>        ○ x | y</p>
+]]></content>
+      <categories>
+        <category>Software</category>
+      </categories>
+      <tags>
+        <tag>R</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Learning with Hanyu</title>
     <url>/2019/03/24/Life_20190324/</url>
     <content><![CDATA[<p>Welcome to <strong>Learning with Hanyu</strong>.  This is my very first post. </p>
