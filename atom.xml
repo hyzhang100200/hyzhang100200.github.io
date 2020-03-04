@@ -68,7 +68,7 @@
     <link href="http://yoursite.com/2019/03/24/hello/"/>
     <id>http://yoursite.com/2019/03/24/hello/</id>
     <published>2019-03-24T14:25:27.950Z</published>
-    <updated>2019-03-24T16:45:16.217Z</updated>
+    <updated>2020-03-04T01:45:38.112Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <strong>Learning with Hanyu</strong>.  This is my very first post. </p><p>Today, I want to share a pome with you (•͈˽•͈)</p><blockquote><p>如果给你寄一本书<br>我不会寄给你诗歌<br>我要给你一本关于植物，关于庄稼的<br>告诉你稻子和稗子的区别<br>告诉你一棵稗子提心吊胆的<br>春天<br>———余秀华《我爱你》</p></blockquote>]]></content>
     
@@ -84,6 +84,8 @@
     </summary>
     
     
+    
+      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
     
   </entry>
   
