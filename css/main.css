@@ -1174,7 +1174,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #81ffff;
+  background: #3d47ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1643,12 +1643,12 @@ pre .javascript .function {
 }
 @media (min-width: 992px) {
   .post-body {
-    text-align: justify;
+    text-align: left;
   }
 }
 @media (max-width: 991px) {
   .post-body {
-    text-align: justify;
+    text-align: left;
   }
 }
 .post-body h1,
@@ -2272,28 +2272,23 @@ embed {
   }
 }
 @media screen and (min-width: 900px) {
-  .use-motion .site-title,
-  .site-title a {
-    font-size: 2.5rem !important;
-    font-weight: bold !important;
-  }
-  .home .post-title {
-    font-size: 2.5 rem !important;
-  }
-  .home .post-list p {
-    letter-spacing: 0.3px !important;
-    line-height: 1.2 !important;
-  }
-  .content-wrap p {
-    letter-spacing: 0.3px !important;
-    line-height: 1.2 !important;
-  }
-}
-@media screen and (min-width: 900px) {
   .site-nav a.home i.fa {
     display: none !important;
   }
   .site-nav a.home {
     padding-left: 0.5em !important;
+  }
+}
+.menu .menu-item-home {
+  display: none !important;
+}
+@media screen and (min-width: 900px) {
+  .use-motion .site-title,
+  .site-title a {
+    font-size: 2.5rem !important;
+    font-weight: bold !important;
+  }
+  .content-wrap p {
+    line-height: 1.6 !important;
   }
 }
