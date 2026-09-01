@@ -1174,7 +1174,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #3d47ff;
+  background: #ffa4ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2285,10 +2285,18 @@ embed {
 @media screen and (min-width: 900px) {
   .use-motion .site-title,
   .site-title a {
-    font-size: 2.5rem !important;
+    font-size: 2rem !important;
     font-weight: bold !important;
   }
   .content-wrap p {
-    line-height: 1.6 !important;
+    font-size: 0.875em !important;
+    line-height: 1.5 !important;
+  }
+  .footer {
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+  }
+  .main-inner {
+    padding-top: 0 !important;
   }
 }
