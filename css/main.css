@@ -1174,7 +1174,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #b9ff06;
+  background: #81ffff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2260,8 +2260,40 @@ embed {
     padding-top: 0 !important;
     padding-bottom: 0 !important;
   }
-  .home .post-list,
+  .home .post-list {
+    margin-top: 0 !important;
+  }
   .page-header + .content-wrap {
     padding-top: 0 !important;
+  }
+  .content.page.posts-expand {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+}
+@media screen and (min-width: 900px) {
+  .use-motion .site-title,
+  .site-title a {
+    font-size: 2.5rem !important;
+    font-weight: bold !important;
+  }
+  .home .post-title {
+    font-size: 2.5 rem !important;
+  }
+  .home .post-list p {
+    letter-spacing: 0.3px !important;
+    line-height: 1.2 !important;
+  }
+  .content-wrap p {
+    letter-spacing: 0.3px !important;
+    line-height: 1.2 !important;
+  }
+}
+@media screen and (min-width: 900px) {
+  .site-nav a.home i.fa {
+    display: none !important;
+  }
+  .site-nav a.home {
+    padding-left: 0.5em !important;
   }
 }
